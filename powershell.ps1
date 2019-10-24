@@ -1,0 +1,2 @@
+$a=ifconfig
+echo $a
